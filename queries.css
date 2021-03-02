@@ -1,0 +1,153 @@
+@media screen and (max-width: 1300px) {
+  .container {
+    padding-right: 1rem;
+  }
+  .star {
+    padding-left: 5rem;
+  }
+}
+@media screen and (max-width: 1170px) {
+  .service {
+    height: 13.5rem;
+  }
+}
+@media screen and (max-width: 980px) {
+  .service {
+    height: 15rem;
+    margin-right: 1rem;
+  }
+  .big {
+    font-weight: 750;
+  }
+  .container2 {
+    margin-left: 6rem;
+    margin-right: 6rem;
+  }
+}
+@media screen and (max-width: 890px) {
+  .sec {
+    display: flex;
+    flex-direction: column;
+    margin: 3.5rem;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+  }
+  .container {
+    padding-right: 5rem;
+    margin-bottom: 2rem;
+    align-items: center;
+    justify-content: center;
+  }
+  .container2 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-right: 2rem;
+  }
+  .star {
+    padding-right: 7.5rem;
+  }
+  .rate {
+    width: 35rem;
+    font-size: 1rem;
+  }
+  .rate2 {
+    right: 0rem;
+  }
+  .big {
+    font-weight: 800;
+  }
+  .rate1 {
+    right: 0rem;
+  }
+}
+@media screen and (max-width: 700px) {
+  .container {
+    padding-left: 4rem;
+    text-align: center;
+    padding-right: 0rem;
+  }
+  .star {
+    padding-left: 8rem;
+  }
+  .rate {
+    height: 3.5rem;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    font-weight: 900;
+  }
+  .rate span {
+    padding-bottom: 1rem;
+  }
+}
+@media screen and (max-width: 600px) {
+  .sec {
+    margin-left: 0rem;
+    margin-right: 0rem;
+  }
+  .container {
+    position: relative;
+    left: 4rem;
+    width: 40rem;
+    /* padding-left: 0rem; */
+    padding-right: 0rem;
+  }
+  .rate {
+    height: 4.1rem;
+    font-size: 1.2rem;
+  }
+  .star {
+    padding-left: 17rem;
+  }
+  .container2 {
+    margin-right: -5rem;
+  }
+  .service {
+    width: 25rem;
+  }
+  .des2 {
+    font-size: 20px;
+  }
+}
+@media screen and (max-width: 550px) {
+  .container {
+    width: 35rem;
+    height: 15rem;
+  }
+  .big {
+    font-size: 3.5rem;
+  }
+  .des {
+    font-size: 1.7rem;
+  }
+  .star {
+    margin-top: 7.5rem;
+    padding-left: 21rem;
+  }
+  .container {
+    margin-right: -8rem;
+  }
+  .rate {
+    height: 4.8rem;
+  }
+}
+@media screen and (max-width: 480px) {
+  .container2 {
+    margin-right: -12rem;
+  }
+  .service {
+    width: 35rem;
+    font-size: 1.3rem;
+  }
+  .rate {
+    height: 6.5rem;
+    font-size: 1.6rem;
+    width: 30rem;
+  }
+  .des2 {
+    font-size: 1.6rem;
+  }
+}
